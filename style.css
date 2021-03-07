@@ -1,0 +1,124 @@
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin: 0px;
+}
+section {
+	height: 500px;
+	padding-bottom: 30px;
+}
+
+.top-banner {
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 50px;
+	color: rgb(24, 34, 43);
+}
+
+h1 {
+	font-size: 50px;
+	color: rgb(24, 34, 43);
+}
+.site-heighlight {
+	color: orange;
+}
+h3 {
+	color: goldenrod;
+}
+p {
+	color: dimgray;
+}
+.button-link {
+	text-decoration: none;
+	font-weight: 700;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background-image: linear-gradient(45deg, red, yellow);
+	color: rgb(255, 255, 255);
+}
+
+
+.half-width img {
+	width: 100%;
+}
+.dream-area {
+	background-image: url("bg3.png");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+.half-width {
+	width: 36%;
+	margin: 0 5% 0% 5%;
+	float: left;
+}
+.half-width img {
+	width: 100%;
+}
+
+h2 {
+	color: orangered;
+	font-size: 40px;
+}
+
+
+h3 {
+	color: goldenrod;
+}
+.site-heighlight {
+	color: orange;
+}
+p {
+	color: dimgray;
+}
+.button-link {
+	text-decoration: none;
+	font-weight: 700;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background-image: linear-gradient(45deg, red, yellow);
+	color: rgb(255, 255, 255);
+}
+.exp-area {
+	background-image: url("bg2.png");
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+.card {
+	box-shadow: 10px 10px 10px 10px gray;
+	border-left: 4px solid red;
+	border-radius: 15px;
+	padding: 20px;
+	height: 200px;
+}
+h1 {
+	font-size: 50px;
+	color: rgb(24, 34, 43);
+}
+
+h3 {
+	color: goldenrod;
+}
+p {
+	color: dimgray;
+}
+
+
+
+h3 {
+	color: goldenrod;
+}
+
+p {
+	color: dimgray;
+}
+
+footer {
+	text-align: center;
+}
+p {
+	color: dimgray;
+}
+
